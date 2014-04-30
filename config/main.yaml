@@ -5,12 +5,12 @@
 # installed.
 packages:
   - minimal
-  - desktop
+#  - desktop
   - programming
-  - distributed
-  - documentation
+#  - distributed
+#  - documentation
   - libraries
-  - hadoop
+#  - hadoop
   - amazon
   - python
   - r
@@ -18,8 +18,8 @@ packages:
   - perl
   - java
   - java_extras
-  - erlang
-  - haskell
+#  - erlang
+#  - haskell
   - databases
   - math
   - viz
@@ -44,4 +44,4 @@ libraries:
   - perl-libs
   - python-libs
   - r-libs
-  - ruby-libs
+#  - ruby-libs
