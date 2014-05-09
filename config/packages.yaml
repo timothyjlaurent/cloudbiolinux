@@ -273,7 +273,7 @@ databases:
   postgres:
     - postgresql
     - postgresql-client
-    - postgresql-plpython-9.1
+#    - postgresql-plpython-9.1
     - postgresql-plperl-9.1
     - libpq-dev
   sqlite:
