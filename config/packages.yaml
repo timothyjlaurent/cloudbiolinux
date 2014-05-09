@@ -160,7 +160,7 @@ programming:
     - pbuilder
     - unzip
   virtual:
-    - virtualbox-4.2
+    - virtualbox-4.3
     - dkms
   util:
     - mc
